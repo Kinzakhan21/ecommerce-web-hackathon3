@@ -55,7 +55,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-12 pt-8 border-t border-gray-200">
-          <p className="text-sm">@{new Date().getFullYear()}2022 Abdul Haseeb. </p>
+          <p className="text-sm">@{new Date().getFullYear()}2022 KINZA KHAN .All right reserved </p>
         </div>
       </div>
     </footer>
